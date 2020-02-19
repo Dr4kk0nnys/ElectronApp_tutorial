@@ -1,0 +1,11 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "Shopping List desktop app made with Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "Dr4kk0nnys",
+  "license": "MIT"
+}
